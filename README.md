@@ -3,28 +3,23 @@
 - 🌱 I’m currently learning python 
 - 📫 How to reach me: martinpro.099@gmail.com
 -->
-[personal]
-name = 'Martin Gonzaelz'
-city = 'San Juan Argentina'
-email = 'martinpro.099 "at" gmail.com'
-
-[professional]
-currently-employed = false
-title = 'Software Development'
-
-[bio]
-categories = [
-  'generalist',
-]
-interests = [
-  'functional-programming',
-  'linux',
-  'open-source',
-]
-programming-languages = [
-  'c/cpp',
-  'python',
-  'unity/c#',
-  'rust',
-  'go',
-]
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
