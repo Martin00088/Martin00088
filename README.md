@@ -8,4 +8,4 @@
 
 [![](https://img.shields.io/badge/Gmail-Martinpro.099@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
-[linkedin]: https://www.linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/martin
