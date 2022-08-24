@@ -8,4 +8,5 @@
 
 [![](https://img.shields.io/badge/Gmail-Martinpro.099@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
+[<img align="left" alt="Martin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/martin
