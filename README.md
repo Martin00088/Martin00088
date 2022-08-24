@@ -1,9 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-### Hi there 👋
 
 - 🌱 I’m currently learning python 
 
--->
 
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=Martin00088&show_icons=true&theme=nord&hide=["contribs","issues"])](https://github.com/Martin00088)
 
