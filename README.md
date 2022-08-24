@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-- 🌱 I’m currently learning python src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  
+- 🌱 I’m currently learning python<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin00088&theme=nord)
 
