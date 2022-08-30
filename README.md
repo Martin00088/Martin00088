@@ -10,6 +10,4 @@
 
 [![](https://img.shields.io/badge/Gmail-Martinpro.099@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="75" src="https://media.istockphoto.com/vectors/and-javascript-program-icons-on-transparent-background-vector-id1300888546?k=20&m=1300888546&s=612x612&w=0&h=iaHqBpG64vaKqxHQHWYyDigQgKqinoNeVA1bShdqOVM="></code> &nbsp;&nbsp;
