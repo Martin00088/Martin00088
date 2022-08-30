@@ -10,3 +10,6 @@
 
 [![](https://img.shields.io/badge/Gmail-Martinpro.099@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
