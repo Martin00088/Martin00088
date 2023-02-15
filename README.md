@@ -1,12 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin00088&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin00088&theme=transparent)
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=Martin00088&show_icons=true&theme=nord&hide=["contribs","issues"])](https://github.com/Martin00088)
-
+![Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin00088&show_icons=true&theme=transparent)
 
 ### Languages and Tools:
 <div display="flex">
